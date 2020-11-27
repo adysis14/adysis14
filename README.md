@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   I'm Aadya Singh 😎 </h1>
 <h3 align="center">❤A Girl trying to Figure-Out Stuff!!❤</h3>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adysis14&label=Profile%20views&color=0e75b6&style=flat" alt="adysis14" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
@@ -31,7 +32,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adysis14&show_icons=true&locale=en&layout=compact" alt="adysis14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adysis14&show_icons=true&locale=en" alt="adysis14" /></p>
-
+<br>
+<br>
+<br>
 
 
 
