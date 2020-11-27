@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adysis14&label=Profile%20views&color=0e75b6&style=flat" alt="adysis14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adysis14" alt="adysis14" /></a> </p>
-
 - 🔭 I’m currently working on [Steganography](https://adysis14.github.io/Steganography/)
 
 - 🌱 I’m currently learning **python,flask**
 
-- 👨‍💻 All of my projects are available at [https://adysis14.github.io/Aadya_Singh-s_Portfolio/](https://adysis14.github.io/Aadya_Singh-s_Portfolio/)
+- 👨‍💻 You can also check out my portfolio at [https://adysis14.github.io/Aadya_Singh-s_Portfolio/](https://adysis14.github.io/Aadya_Singh-s_Portfolio/)
 
 - 📫 How to reach me **aadyasingh147@gmail.com**
 
@@ -30,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adysis14&show_icons=true&locale=en&layout=compact" alt="adysis14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adysis14&show_icons=true&locale=en" alt="adysis14" /></p>
-
