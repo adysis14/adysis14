@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **python,flask**
 
-- 👨‍💻 You can also check out my portfolio at [https://adysis14.github.io/Aadya_Singh-s_Portfolio/](https://adysis14.github.io/Aadya_Singh-s_Portfolio/)
+- 👨‍💻 You can also check out my portfolio at [aadya-singh-portfolio.netlify.app/](aadya-singh-portfolio.netlify.app)
 
 - 📫 How to reach me **aadyasingh147@gmail.com**
 
