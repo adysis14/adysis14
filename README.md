@@ -13,7 +13,7 @@
 
 - 👨‍💻 You can also check out my **[portfolio](https://aadya-singh-portfolio.netlify.app/)**
 
-- 🤝 Want to Connect?...Let's connect on **[LinkedIn](https://www.linkedin.com/in/aadya-singh-b6955a1a9/)**😛
+- 🤝 Want to Connect?...Let's connect on **[LinkedIn](https://www.linkedin.com/in/aadya-singh-b6955a1a9/)** 😛
 
 - 📫 How to reach me **aadyasingh147@gmail.com**
 
