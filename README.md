@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C4E16AQEUlvD2fLCVNg/profile-displaybackgroundimage-shrink_350_1400/0/1629549715133?e=1634774400&v=beta&t=SMbx-5cykq8VXtWR5r6IHeMyt3oq6J8tF06ihjuI6XY)
+![alt text](https://media-exp1.licdn.com/dms/image/C5616AQEng1M1lwxWzw/profile-displaybackgroundimage-shrink_350_1400/0/1644766700017?e=1651104000&v=beta&t=6xrmf25HegqmOQ9AvcjwyxkNsbJV33OZTUvHTY3MGu0)
 
 <h1 align="center">Hi ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   I'm Aadya Singh 😎 </h1>
 <h3 align="center">❤A Girl trying to Figure-Out Stuff!!❤</h3>
