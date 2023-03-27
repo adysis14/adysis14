@@ -1,4 +1,4 @@
-![alt text]([https://media-exp1.licdn.com/dms/image/C5616AQEng1M1lwxWzw/profile-displaybackgroundimage-shrink_350_1400/0/1644766700017?e=1662595200&v=beta&t=AQQgoEwsbwUhk9_gOn_PbEKwVP0PrLg9svxXidX95No](https://media.licdn.com/dms/image/C4D16AQFTHpS49PKggg/profile-displaybackgroundimage-shrink_350_1400/0/1669043930025?e=1685577600&v=beta&t=C0upRIOTxmj4rkjtgsRgN8NEB-3Pd9f-va8rIn5uj8g))
+![alt text](https://media.licdn.com/dms/image/C4D16AQFTHpS49PKggg/profile-displaybackgroundimage-shrink_350_1400/0/1669043930025?e=1685577600&v=beta&t=C0upRIOTxmj4rkjtgsRgN8NEB-3Pd9f-va8rIn5uj8g)
 
 <h1 align="center">Hi ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   I'm Aadya Singh 😎 </h1>
 <h3 align="center">❤A Girl trying to Figure-Out Stuff!!❤</h3>
