@@ -1,4 +1,4 @@
-![(https://media.licdn.com/dms/image/C4D16AQFTHpS49PKggg/profile-displaybackgroundimage-shrink_350_1400/0/1669043930025?e=1701907200&v=beta&t=sbV6E1Y1mNVOOCU2SFS9HiWPNF_JrpK4UQWVGbTDlAg)](https://media.licdn.com/dms/image/D4D16AQEqPYgdw_dH-Q/profile-displaybackgroundimage-shrink_350_1400/0/1696919331935?e=1703116800&v=beta&t=dhggaRVsvOtS-gG959v_LxoLCQsiZLjhfQiSChf-aJw)
+![(https://media.licdn.com/dms/image/v2/D4D16AQEqPYgdw_dH-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696919333856?e=1729123200&v=beta&t=yLviY6Us4WeA5wa7Jpj9HlCLVjVvErPF-E7_zVi8d4Y)](https://media.licdn.com/dms/image/v2/D4D16AQEqPYgdw_dH-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696919333856?e=1729123200&v=beta&t=yLviY6Us4WeA5wa7Jpj9HlCLVjVvErPF-E7_zVi8d4Y)
 
 <h1 align="center">Hi ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   I'm Aadya Singh 😎 </h1>
 <h3 align="center">❤A Girl trying to Figure-Out Stuff!!❤</h3>
